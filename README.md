@@ -1,2 +1,2 @@
-# Snack-Game
-Snack Game using Java Swing
+# Snake-Game
+Snake Game using Java Swing
