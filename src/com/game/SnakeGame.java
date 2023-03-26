@@ -1,6 +1,6 @@
 package com.game;
 
-public class SnackGame {
+public class SnakeGame {
     public static void main(String[] args) {
         GameFrame frame = new GameFrame();
 

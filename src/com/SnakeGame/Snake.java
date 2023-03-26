@@ -1,7 +1,4 @@
-package com.SnackGame;
-
-import com.SnackGame.Cell;
-import com.SnackGame.CellType;
+package com.SnakeGame;
 
 import java.util.LinkedList;
 
